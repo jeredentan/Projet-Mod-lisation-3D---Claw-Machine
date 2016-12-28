@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/textures">
+        <file>texturebois.jpg</file>
+        <file>textureTSE.jpg</file>
+        <file>textureplancher.jpg</file>
+    </qresource>
+    <qresource prefix="/top3">
+        <file>../../../Desktop/out.txt</file>
+        <file>../../../Desktop/test.txt</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/textures">
+        <file>texture_brique.jpg</file>
+        <file>textureplancher.jpg</file>
+        <file>texture_ecaille_metal.jpg</file>
+        <file>texture_socle_bras.jpg</file>
+        <file>texture_balle_tennis.jpg</file>
+        <file>Logo-TSE.png</file>
+    </qresource>
+    <qresource prefix="/files">
+        <file>test.txt</file>
+        <file>ut.txt</file>
+    </qresource>
+</RCC>
